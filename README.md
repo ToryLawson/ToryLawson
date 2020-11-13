@@ -1,4 +1,4 @@
-### 👋 You seem nice! Hope everything's going great for you today.
+### You seem nice! 👋 Hope everything's going great for you today.
 
 A couple of admissions:
 
