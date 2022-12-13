@@ -5,7 +5,7 @@ A couple of admissions:
 1. I love F# like I love harp seals---they're amazing and deserve protection and I would love to play with them all day but I have to make a living.
 2. I had a strange and intense loyalty to Ruby and only recently came to terms with the fact that, deep down, I prefer Python, like everyone else.
 
-I just wrapped up grad for computer science, specializing in machine learning. I love time-series stuff and reinforcement learning. I was prepared to feel disappointed once I learned how all these things worked but I've only come to be more amazed as I've gone along.
+I just wrapped up grad school for computer science, specializing in machine learning. I love time-series stuff and reinforcement learning. I was prepared to feel disappointed once I learned how all these things worked but I've only come to be more amazed as I've gone along.
 
 I know this is a super tough sell, but if you love F# and regex then I'd welcome your help with my regex modeler. Another tough sell: if you love testing and reinforcement learning, I have another project (currently set to private) that would be a lot of fun to work on, I promise.
 
